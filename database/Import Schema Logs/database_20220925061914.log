@@ -1,0 +1,10 @@
+9/25/2022 6:19:14 AM	This log contains information about the import schema operation into project 'database' on computer 'EC2AMAZ-SMP4MGQ' by user 'Administrator'.
+9/25/2022 6:19:14 AM	Deserializing model
+9/25/2022 6:19:14 AM	Resolving model
+9/25/2022 6:19:14 AM	Visiting imported model for types
+9/25/2022 6:19:14 AM	Scanning project for duplicate elements
+9/25/2022 6:19:14 AM	Finished duplicate element processing
+9/25/2022 6:19:15 AM	Processing extra files
+9/25/2022 6:19:15 AM	Finished importing Data-tier Application file.
+9/25/2022 6:19:15 AM	A summary of the import was saved to the following location: C:\Users\Administrator\Desktop\db\database\database\Import Schema Logs\database_20220925061914.log
+9/25/2022 6:19:15 AM	Click Finish to continue...
